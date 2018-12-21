@@ -1,0 +1,15 @@
+<org.crazyit.foxmail.object.Mail>
+  <xmlName>c8c434f7-a0d0-4725-ac29-c2bcac4c2820.xml</xmlName>
+  <sender>service@shrbank.com</sender>
+  <receivers>
+    <string>zh15623642395@sina.com</string>
+  </receivers>
+  <subject>结清证明</subject>
+  <receiveDate>2018-09-29 15:58:46.0 CST</receiveDate>
+  <size>1.45</size>
+  <hasRead>false</hasRead>
+  <content>&lt;p style=&quot;text-align: left; margin-top: 5px; margin-bottom: 5px; text-indent: 2em;&quot;&gt;&lt;span style=&quot;text-decoration: none; font-size: 16px;&quot;&gt;尊敬&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;的&lt;strong&gt;王小平&lt;/strong&gt;您&amp;lt;h1&amp;gt;王\r\n小&amp;amp;nbsp;&amp;amp;nbsp;&amp;amp;nbsp;平\哈哈&amp;lt;/h1&amp;gt;，&amp;lt;script&amp;gt;alert(123)&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; color: rgb(255, 0, 0); text-decoration: none;&quot;&gt;感谢&lt;/span&gt;&lt;span style=&quot;text-decoration: none; font-size: 16px;&quot;&gt;你对本行&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;金融\r\n产品的使用，&lt;/span&gt;&lt;span style=&quot;text-align: right; text-indent: 2em;&quot;&gt;附件为您本次&lt;/span&gt;&lt;span style=&quot;text-indent: 2em; text-align: right;&quot;&gt;结清证明，结清金额为&lt;strong&gt;&lt;span style=&quot;text-align: right; text-indent: 2em; color: rgb(255, 0, 0);&quot;&gt;1000.00alert(12)10000.00&lt;/span&gt;&lt;/strong&gt;元，请注意查阅!&lt;/span&gt;&lt;span style=&quot;text-align: right; text-indent: 2em;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</content>
+  <ccs/>
+  <files/>
+  <from>inbox</from>
+</org.crazyit.foxmail.object.Mail>

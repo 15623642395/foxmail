@@ -1,0 +1,15 @@
+<org.crazyit.foxmail.object.Mail>
+  <xmlName>dfe9ace4-14d2-4a5c-af22-1e89a6f01973.xml</xmlName>
+  <sender>zh15623642395@sina.com</sender>
+  <receivers>
+    <string>565253584@qq.com</string>
+  </receivers>
+  <subject>测试7</subject>
+  <receiveDate>2018-10-25 08:53:55.946 UTC</receiveDate>
+  <size>0</size>
+  <hasRead>true</hasRead>
+  <content></content>
+  <ccs/>
+  <files/>
+  <from>sent</from>
+</org.crazyit.foxmail.object.Mail>

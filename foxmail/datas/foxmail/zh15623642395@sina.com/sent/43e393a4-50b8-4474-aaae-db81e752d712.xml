@@ -1,0 +1,20 @@
+<org.crazyit.foxmail.object.Mail>
+  <xmlName>43e393a4-50b8-4474-aaae-db81e752d712.xml</xmlName>
+  <sender>zh15623642395@sina.com</sender>
+  <receivers>
+    <string>565253584@qq.com</string>
+  </receivers>
+  <subject>foxmail测试</subject>
+  <receiveDate>2018-10-25 06:00:26.402 UTC</receiveDate>
+  <size>12.5</size>
+  <hasRead>true</hasRead>
+  <content></content>
+  <ccs/>
+  <files>
+    <org.crazyit.foxmail.object.FileObject>
+      <sourceName>人月出勤详细（2018年10月）.xlsx</sourceName>
+      <file>datas\foxmail\zh15623642395@sina.com\file\cdcaf653-5183-4a52-8110-2317f6c563a6.xlsx</file>
+    </org.crazyit.foxmail.object.FileObject>
+  </files>
+  <from>sent</from>
+</org.crazyit.foxmail.object.Mail>

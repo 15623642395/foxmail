@@ -1,0 +1,15 @@
+<org.crazyit.foxmail.object.Mail>
+  <xmlName>2543f2a6-f72e-4007-8025-b7b02475d436.xml</xmlName>
+  <sender>邮件用户昵称，根据自己实际定义 &lt;565253584@qq.com&gt;</sender>
+  <receivers>
+    <string>565253584@qq.com</string>
+  </receivers>
+  <subject>标题测试17865</subject>
+  <receiveDate>2018-11-30 08:14:04.0 UTC</receiveDate>
+  <size>0.02</size>
+  <hasRead>false</hasRead>
+  <content>正文测试17865</content>
+  <ccs/>
+  <files/>
+  <from>inbox</from>
+</org.crazyit.foxmail.object.Mail>

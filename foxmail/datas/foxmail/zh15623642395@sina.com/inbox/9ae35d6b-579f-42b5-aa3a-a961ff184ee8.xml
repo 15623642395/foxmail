@@ -1,0 +1,15 @@
+<org.crazyit.foxmail.object.Mail>
+  <xmlName>9ae35d6b-579f-42b5-aa3a-a961ff184ee8.xml</xmlName>
+  <sender>service@shrbank.com</sender>
+  <receivers>
+    <string>zh15623642395@sina.com</string>
+  </receivers>
+  <subject>邮件发送</subject>
+  <receiveDate>2018-09-20 14:50:38.0 CST</receiveDate>
+  <size>1.48</size>
+  <hasRead>false</hasRead>
+  <content>&lt;p&gt;&amp;nbsp; &lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;font-size: 16px; text-decoration: underline;&quot;&gt;&lt;em&gt;&lt;strong&gt;我&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;在&lt;em&gt;&lt;strong&gt;公&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;司找了一天bug，但还是没有任何头绪，我带着电脑来到楼下的花坛边，希望&lt;em&gt;换&lt;/em&gt;个环境能让大脑清醒点。我旁边坐着一个乞丐正&lt;strong&gt;在行&lt;/strong&gt;乞，我口袋里刚好有&lt;span style=&quot;font-size: 16px; color: rgb(255, 192, 0);&quot;&gt;5块钱&lt;/span&gt;零钱，就都给了他。乞丐跟我说了声谢谢，看我愁眉不展问我怎么了，我说我代码出现了bug不知道怎么解决。&lt;strong&gt;乞丐偏&lt;/strong&gt;过头来看了下，指着一行代&lt;span style=&quot;font-size: 16px; color: rgb(0, 176, 80);&quot;&gt;码说&lt;/span&gt;：这里缺少个逗号。我面带惊讶的看着乞丐，乞丐摊摊手一脸无奈说我以前也是做开发的。&lt;/span&gt;&lt;/p&gt;</content>
+  <ccs/>
+  <files/>
+  <from>inbox</from>
+</org.crazyit.foxmail.object.Mail>

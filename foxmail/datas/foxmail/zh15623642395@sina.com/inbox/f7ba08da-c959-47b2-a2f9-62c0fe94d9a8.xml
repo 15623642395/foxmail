@@ -1,0 +1,15 @@
+<org.crazyit.foxmail.object.Mail>
+  <xmlName>f7ba08da-c959-47b2-a2f9-62c0fe94d9a8.xml</xmlName>
+  <sender>service@shrbank.com</sender>
+  <receivers>
+    <string>zh15623642395@sina.com</string>
+  </receivers>
+  <subject>邮件发送</subject>
+  <receiveDate>2018-09-21 17:46:31.0 CST</receiveDate>
+  <size>0.76</size>
+  <hasRead>false</hasRead>
+  <content>&lt;p style=&quot;text-align: left; margin-top: 5px; margin-bottom: 5px; text-indent: 2em;&quot;&gt;&amp;nbsp;&lt;span style=&quot;font-size: 16px;&quot;&gt;尊敬的&lt;strong&gt;王妃&lt;/strong&gt;先生您好，感谢你对本行金融产品的使用，&lt;/span&gt;&lt;span style=&quot;text-align: right; text-indent: 2em;&quot;&gt;附件为您本次结清标识，请注意查阅！&lt;/span&gt;&lt;/p&gt;</content>
+  <ccs/>
+  <files/>
+  <from>inbox</from>
+</org.crazyit.foxmail.object.Mail>

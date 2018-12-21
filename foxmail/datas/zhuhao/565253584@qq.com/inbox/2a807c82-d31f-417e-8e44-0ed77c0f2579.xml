@@ -1,0 +1,20 @@
+<org.crazyit.foxmail.object.Mail>
+  <xmlName>2a807c82-d31f-417e-8e44-0ed77c0f2579.xml</xmlName>
+  <sender>oadmin@business1143.com</sender>
+  <receivers>
+    <string>565253584@qq.com</string>
+  </receivers>
+  <subject>朋友你好</subject>
+  <receiveDate>2018-11-09 08:29:55.0 UTC</receiveDate>
+  <size>9.24</size>
+  <hasRead>false</hasRead>
+  <content>你好</content>
+  <ccs/>
+  <files>
+    <org.crazyit.foxmail.object.FileObject>
+      <sourceName>1.xls</sourceName>
+      <file>datas\zhuhao\565253584@qq.com\file\37d37639-987d-4fb6-a18b-c6f61fc9d7ba.xls</file>
+    </org.crazyit.foxmail.object.FileObject>
+  </files>
+  <from>inbox</from>
+</org.crazyit.foxmail.object.Mail>

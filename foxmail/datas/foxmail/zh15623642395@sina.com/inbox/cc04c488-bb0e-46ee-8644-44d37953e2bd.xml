@@ -1,0 +1,20 @@
+<org.crazyit.foxmail.object.Mail>
+  <xmlName>cc04c488-bb0e-46ee-8644-44d37953e2bd.xml</xmlName>
+  <sender>service@shrbank.com</sender>
+  <receivers>
+    <string>zh15623642395@sina.com</string>
+  </receivers>
+  <subject>结清证明</subject>
+  <receiveDate>2018-09-29 18:23:43.0 CST</receiveDate>
+  <size>242.86</size>
+  <hasRead>false</hasRead>
+  <content>&lt;p&gt;&lt;span style=&quot;text-indent: 32px;&quot;&gt;尊敬&lt;/span&gt;&lt;span style=&quot;text-indent: 32px;&quot;&gt;的客户您好：&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;text-indent: 32px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;感谢&lt;/span&gt;&lt;span style=&quot;text-indent: 32px;&quot;&gt;你对本行&lt;/span&gt;&lt;span style=&quot;text-indent: 32px;&quot;&gt;金融产品的使用，&lt;/span&gt;&lt;span style=&quot;text-indent: 2em; text-align: right;&quot;&gt;附件为您本次&lt;/span&gt;&lt;span style=&quot;text-indent: 2em; text-align: right;&quot;&gt;结清证明，请注意查阅。&lt;/span&gt;&lt;/p&gt;</content>
+  <ccs/>
+  <files>
+    <org.crazyit.foxmail.object.FileObject>
+      <sourceName>ST20340724000000002841.pdf</sourceName>
+      <file>datas\foxmail\zh15623642395@sina.com\file\2520bbe7-b6fd-4b41-bbb1-a235f014a2c6.pdf</file>
+    </org.crazyit.foxmail.object.FileObject>
+  </files>
+  <from>inbox</from>
+</org.crazyit.foxmail.object.Mail>

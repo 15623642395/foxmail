@@ -1,0 +1,15 @@
+<org.crazyit.foxmail.object.Mail>
+  <xmlName>fbda83c4-613d-478c-bba5-8af3d5bc30b1.xml</xmlName>
+  <sender>service@shrbank.com</sender>
+  <receivers>
+    <string>zh15623642395@sina.com</string>
+  </receivers>
+  <subject>邮件发送</subject>
+  <receiveDate>2018-09-20 09:51:47.0 CST</receiveDate>
+  <size>0.72</size>
+  <hasRead>false</hasRead>
+  <content>&lt;p&gt;&amp;nbsp; &lt;span style=&quot;color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;张三&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;先生您好，感谢您对我行邮件订阅功能的使用，附件为您本次结清证明，请注意查收！&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content>
+  <ccs/>
+  <files/>
+  <from>inbox</from>
+</org.crazyit.foxmail.object.Mail>
